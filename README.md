@@ -1,1 +1,1 @@
-# viewpoint annotations for VANet
+# Viewpoint Annotations for VANet
